@@ -3,4 +3,4 @@
 
 Ejercicio de HTML/CSS/JS basado en el tutorial de [Bedimcode](https://youtu.be/-EM4uVJm9qo)
 
-> Enlace a sitio en vivo: [Shoes Ecommerce](https://login-bootstrap5.vercel.app)
+> Enlace a sitio en vivo: [Shoes Ecommerce](https://shoes-ecommerce.vercel.app/)
